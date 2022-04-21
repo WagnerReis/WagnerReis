@@ -6,6 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wagnerr3is/)
 
 ![WagnerReis GitHub stats](https://github-readme-stats.vercel.app/api?username=WagnerReis&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerReis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias
 <div style="display: inline_block"><br/>
